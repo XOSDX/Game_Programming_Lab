@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="VIT.png" width="400"/>
+</p>
+
 # 🎮 Game Programming Lab
 This repository contains the implementation of various **Game Programming Lab experiments** using **Unity** and **C# scripting**, covering 3D model building, tile-based systems, beginner scripting, game mechanics, lighting, audio, and VR simulations.  
 
